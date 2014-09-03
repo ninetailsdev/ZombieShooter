@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\cannonball.tga</Source>
+      <Name>Sprites\cannonball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Release\Content\Sprites\cannonball.xnb</Output>
+      <Time>2007-07-18T18:32:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MJTest.png</Source>
+      <Name>Sprites\MJTest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Release\Content\Sprites\MJTest.xnb</Output>
+      <Time>2009-11-08T12:45:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BloodDrops.png</Source>
+      <Name>Sprites\BloodDrops</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Release\Content\Sprites\BloodDrops.xnb</Output>
+      <Time>2009-11-08T12:45:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BloodSpray.png</Source>
+      <Name>Sprites\BloodSpray</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Release\Content\Sprites\BloodSpray.xnb</Output>
+      <Time>2009-11-20T12:18:46.39417+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MouseTarget.png</Source>
+      <Name>Sprites\MouseTarget</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Release\Content\Sprites\MouseTarget.xnb</Output>
+      <Time>2009-11-08T12:45:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BackGround V1.png</Source>
+      <Name>Sprites\BackGround V1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Release\Content\Sprites\BackGround V1.xnb</Output>
+      <Time>2009-11-08T13:36:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MouseTarget 2.0.png</Source>
+      <Name>Sprites\MouseTarget 2.0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Release\Content\Sprites\MouseTarget 2.0.xnb</Output>
+      <Time>2009-11-08T13:39:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\TurretHead.png</Source>
+      <Name>Sprites\TurretHead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Release\Content\Sprites\TurretHead.xnb</Output>
+      <Time>2009-11-12T18:29:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\TurretStand.png</Source>
+      <Name>Sprites\TurretStand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Release\Content\Sprites\TurretStand.xnb</Output>
+      <Time>2009-11-12T18:29:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ZombieTest.png</Source>
+      <Name>Sprites\ZombieTest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Release\Content\Sprites\ZombieTest.xnb</Output>
+      <Time>2009-11-12T19:54:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\GameFont.spritefont</Source>
+      <Name>Fonts\GameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Release\Content\Fonts\GameFont.xnb</Output>
+      <Time>2009-10-28T14:39:26+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-08-20T16:05:41.8988144+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

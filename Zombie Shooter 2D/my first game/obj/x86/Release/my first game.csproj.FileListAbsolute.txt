@@ -1,0 +1,17 @@
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Release\Content\Sprites\cannonball.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Release\Content\Sprites\MJTest.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Release\Content\Sprites\BloodDrops.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Release\Content\Sprites\BloodSpray.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Release\Content\Sprites\MouseTarget.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Release\Content\Sprites\BackGround V1.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Release\Content\Sprites\MouseTarget 2.0.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Release\Content\Sprites\TurretHead.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Release\Content\Sprites\TurretStand.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Release\Content\Sprites\ZombieTest.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Release\Content\Fonts\GameFont.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Release\my first game.exe
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Release\my first game.pdb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\obj\x86\Release\my first game.exe
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\obj\x86\Release\my first game.pdb

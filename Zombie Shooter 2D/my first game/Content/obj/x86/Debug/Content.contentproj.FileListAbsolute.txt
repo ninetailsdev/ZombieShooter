@@ -1,0 +1,11 @@
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\my first game\my first game\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\my first game\my first game\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\my first game\my first game\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\my first game\my first game\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Medic\Desktop\my first game\my first game\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\RHUMPH11\Desktop\my first game\my first game\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rufus\Documents\Visual Studio 2008\Projects\my first game v 2.0\my first game\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rufus\Desktop\For Sean Backup\my first game\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Obi\Desktop\For Sean Backup\my first game\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\Content\obj\x86\Debug\ResolveAssemblyReference.cache

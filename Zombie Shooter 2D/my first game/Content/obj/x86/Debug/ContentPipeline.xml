@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\cannonball.tga</Source>
+      <Name>Sprites\cannonball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\Sprites\cannonball.xnb</Output>
+      <Time>2007-07-18T16:32:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MJTest.png</Source>
+      <Name>Sprites\MJTest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\Sprites\MJTest.xnb</Output>
+      <Time>2009-11-08T10:45:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BloodDrops.png</Source>
+      <Name>Sprites\BloodDrops</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\Sprites\BloodDrops.xnb</Output>
+      <Time>2009-11-08T10:45:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BloodSpray.png</Source>
+      <Name>Sprites\BloodSpray</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\Sprites\BloodSpray.xnb</Output>
+      <Time>2009-11-20T10:18:48+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MouseTarget.png</Source>
+      <Name>Sprites\MouseTarget</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\Sprites\MouseTarget.xnb</Output>
+      <Time>2009-11-08T10:45:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BackGround V1.png</Source>
+      <Name>Sprites\BackGround V1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\Sprites\BackGround V1.xnb</Output>
+      <Time>2009-11-08T11:36:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MouseTarget 2.0.png</Source>
+      <Name>Sprites\MouseTarget 2.0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\Sprites\MouseTarget 2.0.xnb</Output>
+      <Time>2009-11-08T11:39:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\TurretHead.png</Source>
+      <Name>Sprites\TurretHead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\Sprites\TurretHead.xnb</Output>
+      <Time>2009-11-12T16:29:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\TurretStand.png</Source>
+      <Name>Sprites\TurretStand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\Sprites\TurretStand.xnb</Output>
+      <Time>2009-11-12T16:29:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ZombieTest.png</Source>
+      <Name>Sprites\ZombieTest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\Sprites\ZombieTest.xnb</Output>
+      <Time>2009-11-12T17:54:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\cannonball2.tga</Source>
+      <Name>Sprites\cannonball2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\Sprites\cannonball2.xnb</Output>
+      <Time>2009-11-05T23:58:40+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Gun.bmp</Source>
+      <Name>Sprites\Gun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\Sprites\Gun.xnb</Output>
+      <Time>2009-11-29T04:04:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\GameFont.spritefont</Source>
+      <Name>Fonts\GameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\Fonts\GameFont.xnb</Output>
+      <Time>2009-10-28T12:39:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ControlScreen.png</Source>
+      <Name>ControlScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\ControlScreen.xnb</Output>
+      <Time>2011-10-09T19:32:05.7503733+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameOver.png</Source>
+      <Name>GameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\GameOver.xnb</Output>
+      <Time>2011-10-09T19:03:48.1829348+01:00</Time>
+    </Item>
+    <Item>
+      <Source>StartScreen.png</Source>
+      <Name>StartScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\StartScreen.xnb</Output>
+      <Time>2011-10-09T19:34:52.9178295+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-10-09T17:52:02.1435833+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

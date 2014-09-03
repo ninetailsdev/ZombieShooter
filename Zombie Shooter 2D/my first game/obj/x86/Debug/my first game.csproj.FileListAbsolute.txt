@@ -1,0 +1,197 @@
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\my first game\my first game\bin\x86\Debug\Content\Sprites\background.xnb
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\my first game\my first game\bin\x86\Debug\Content\Sprites\cannon.xnb
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\my first game\my first game\bin\x86\Debug\Content\Sprites\cannonball.xnb
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\my first game\my first game\bin\x86\Debug\Content\Sprites\enemy.xnb
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\my first game\my first game\bin\x86\Debug\my first game.exe
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\my first game\my first game\bin\x86\Debug\my first game.pdb
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\my first game\my first game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\my first game\my first game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\my first game\my first game\obj\x86\Debug\my first game.exe
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\my first game\my first game\obj\x86\Debug\my first game.pdb
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\my first game\my first game\bin\x86\Debug\Content\Fonts\GameFont.xnb
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\my first game\my first game\bin\x86\Debug\Content\explosion.xnb
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\my first game\my first game\bin\x86\Debug\Content\smoke.xnb
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\my first game\my first game\bin\x86\Debug\Content\Sprites\explosion.xnb
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\my first game\my first game\bin\x86\Debug\Content\Sprites\smoke.xnb
+C:\Documents and Settings\David\My Documents\Visual Studio 2008\Projects\my first game\my first game\bin\x86\Debug\Content\Sprites\player.xnb
+R:\my first game\my first game\bin\x86\Debug\Content\Sprites\cannonball.xnb
+R:\my first game\my first game\bin\x86\Debug\Content\Fonts\GameFont.xnb
+R:\my first game\my first game\bin\x86\Debug\my first game.exe
+R:\my first game\my first game\bin\x86\Debug\my first game.pdb
+R:\my first game\my first game\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\my first game\my first game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+R:\my first game\my first game\obj\x86\Debug\my first game.exe
+R:\my first game\my first game\obj\x86\Debug\my first game.pdb
+E:\my first game\my first game\bin\x86\Debug\Content\Sprites\cannonball.xnb
+E:\my first game\my first game\bin\x86\Debug\Content\Fonts\GameFont.xnb
+E:\my first game\my first game\bin\x86\Debug\my first game.exe
+E:\my first game\my first game\bin\x86\Debug\my first game.pdb
+E:\my first game\my first game\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\my first game\my first game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\my first game\my first game\obj\x86\Debug\my first game.exe
+E:\my first game\my first game\obj\x86\Debug\my first game.pdb
+E:\my first game\my first game\bin\x86\Debug\Content\Sprites\MJTest.xnb
+E:\my first game\my first game\bin\x86\Debug\Content\Sprites\BloodDrops.xnb
+E:\my first game\my first game\bin\x86\Debug\Content\Sprites\BloodSpray.xnb
+E:\my first game\my first game\bin\x86\Debug\Content\Sprites\MouseTarget.xnb
+E:\my first game\my first game\bin\x86\Debug\Content\Sprites\ZombieTest.xnb
+E:\my first game\my first game\bin\x86\Debug\Content\Sprites\BackGround V1.xnb
+E:\my first game\my first game\bin\x86\Debug\Content\Sprites\MouseTarget 2.0.xnb
+G:\my first game\my first game\bin\x86\Debug\Content\Sprites\cannonball.xnb
+G:\my first game\my first game\bin\x86\Debug\Content\Sprites\MJTest.xnb
+G:\my first game\my first game\bin\x86\Debug\Content\Sprites\BloodDrops.xnb
+G:\my first game\my first game\bin\x86\Debug\Content\Sprites\BloodSpray.xnb
+G:\my first game\my first game\bin\x86\Debug\Content\Sprites\MouseTarget.xnb
+G:\my first game\my first game\bin\x86\Debug\Content\Sprites\ZombieTest.xnb
+G:\my first game\my first game\bin\x86\Debug\Content\Sprites\BackGround V1.xnb
+G:\my first game\my first game\bin\x86\Debug\Content\Sprites\MouseTarget 2.0.xnb
+G:\my first game\my first game\bin\x86\Debug\Content\Fonts\GameFont.xnb
+G:\my first game\my first game\bin\x86\Debug\my first game.exe
+G:\my first game\my first game\bin\x86\Debug\my first game.pdb
+G:\my first game\my first game\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\my first game\my first game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\my first game\my first game\obj\x86\Debug\my first game.exe
+G:\my first game\my first game\obj\x86\Debug\my first game.pdb
+E:\my first game\my first game\bin\x86\Debug\Content\Sprites\TurretHead.xnb
+E:\my first game\my first game\bin\x86\Debug\Content\Sprites\TurretStand.xnb
+C:\Users\Medic\Desktop\my first game\my first game\bin\x86\Debug\Content\Sprites\cannonball.xnb
+C:\Users\Medic\Desktop\my first game\my first game\bin\x86\Debug\Content\Sprites\MJTest.xnb
+C:\Users\Medic\Desktop\my first game\my first game\bin\x86\Debug\Content\Sprites\BloodDrops.xnb
+C:\Users\Medic\Desktop\my first game\my first game\bin\x86\Debug\Content\Sprites\BloodSpray.xnb
+C:\Users\Medic\Desktop\my first game\my first game\bin\x86\Debug\Content\Sprites\MouseTarget.xnb
+C:\Users\Medic\Desktop\my first game\my first game\bin\x86\Debug\Content\Sprites\ZombieTest.xnb
+C:\Users\Medic\Desktop\my first game\my first game\bin\x86\Debug\Content\Sprites\BackGround V1.xnb
+C:\Users\Medic\Desktop\my first game\my first game\bin\x86\Debug\Content\Sprites\MouseTarget 2.0.xnb
+C:\Users\Medic\Desktop\my first game\my first game\bin\x86\Debug\Content\Sprites\TurretHead.xnb
+C:\Users\Medic\Desktop\my first game\my first game\bin\x86\Debug\Content\Sprites\TurretStand.xnb
+C:\Users\Medic\Desktop\my first game\my first game\bin\x86\Debug\Content\Fonts\GameFont.xnb
+C:\Users\Medic\Desktop\my first game\my first game\bin\x86\Debug\my first game.exe
+C:\Users\Medic\Desktop\my first game\my first game\bin\x86\Debug\my first game.pdb
+C:\Users\Medic\Desktop\my first game\my first game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Medic\Desktop\my first game\my first game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Medic\Desktop\my first game\my first game\obj\x86\Debug\my first game.exe
+C:\Users\Medic\Desktop\my first game\my first game\obj\x86\Debug\my first game.pdb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game\my first game\bin\x86\Debug\Content\Sprites\cannonball.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game\my first game\bin\x86\Debug\Content\Sprites\MJTest.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game\my first game\bin\x86\Debug\Content\Sprites\BloodDrops.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game\my first game\bin\x86\Debug\Content\Sprites\BloodSpray.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game\my first game\bin\x86\Debug\Content\Sprites\MouseTarget.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game\my first game\bin\x86\Debug\Content\Sprites\BackGround V1.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game\my first game\bin\x86\Debug\Content\Sprites\MouseTarget 2.0.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game\my first game\bin\x86\Debug\Content\Sprites\TurretHead.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game\my first game\bin\x86\Debug\Content\Sprites\TurretStand.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game\my first game\bin\x86\Debug\Content\Sprites\ZombieTest.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game\my first game\bin\x86\Debug\Content\Fonts\GameFont.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game\my first game\bin\x86\Debug\my first game.exe
+C:\Documents and Settings\RHUMPH11\Desktop\my first game\my first game\bin\x86\Debug\my first game.pdb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game\my first game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\RHUMPH11\Desktop\my first game\my first game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\RHUMPH11\Desktop\my first game\my first game\obj\x86\Debug\my first game.exe
+C:\Documents and Settings\RHUMPH11\Desktop\my first game\my first game\obj\x86\Debug\my first game.pdb
+G:\my first game\my first game\bin\x86\Debug\Content\Sprites\TurretHead.xnb
+G:\my first game\my first game\bin\x86\Debug\Content\Sprites\TurretStand.xnb
+R:\my first game\my first game\bin\x86\Debug\Content\Sprites\MJTest.xnb
+R:\my first game\my first game\bin\x86\Debug\Content\Sprites\BloodDrops.xnb
+R:\my first game\my first game\bin\x86\Debug\Content\Sprites\BloodSpray.xnb
+R:\my first game\my first game\bin\x86\Debug\Content\Sprites\MouseTarget.xnb
+R:\my first game\my first game\bin\x86\Debug\Content\Sprites\BackGround V1.xnb
+R:\my first game\my first game\bin\x86\Debug\Content\Sprites\MouseTarget 2.0.xnb
+R:\my first game\my first game\bin\x86\Debug\Content\Sprites\TurretHead.xnb
+R:\my first game\my first game\bin\x86\Debug\Content\Sprites\TurretStand.xnb
+R:\my first game\my first game\bin\x86\Debug\Content\Sprites\ZombieTest.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\obj\x86\Debug\my first game.exe
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Debug\Content\Sprites\cannonball.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Debug\Content\Sprites\MJTest.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Debug\Content\Sprites\BloodDrops.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Debug\Content\Sprites\BloodSpray.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Debug\Content\Sprites\MouseTarget.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Debug\Content\Sprites\BackGround V1.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Debug\Content\Sprites\MouseTarget 2.0.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Debug\Content\Sprites\TurretHead.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Debug\Content\Sprites\TurretStand.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Debug\Content\Sprites\ZombieTest.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Debug\Content\Fonts\GameFont.xnb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Debug\my first game.exe
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\bin\x86\Debug\my first game.pdb
+C:\Documents and Settings\RHUMPH11\Desktop\my first game v 2.0\my first game\obj\x86\Debug\my first game.pdb
+C:\Users\Rufus\Documents\Visual Studio 2008\Projects\my first game v 2.0\my first game\bin\x86\Debug\Content\Sprites\cannonball.xnb
+C:\Users\Rufus\Documents\Visual Studio 2008\Projects\my first game v 2.0\my first game\bin\x86\Debug\Content\Sprites\MJTest.xnb
+C:\Users\Rufus\Documents\Visual Studio 2008\Projects\my first game v 2.0\my first game\bin\x86\Debug\Content\Sprites\BloodDrops.xnb
+C:\Users\Rufus\Documents\Visual Studio 2008\Projects\my first game v 2.0\my first game\bin\x86\Debug\Content\Sprites\BloodSpray.xnb
+C:\Users\Rufus\Documents\Visual Studio 2008\Projects\my first game v 2.0\my first game\bin\x86\Debug\Content\Sprites\MouseTarget.xnb
+C:\Users\Rufus\Documents\Visual Studio 2008\Projects\my first game v 2.0\my first game\bin\x86\Debug\Content\Sprites\BackGround V1.xnb
+C:\Users\Rufus\Documents\Visual Studio 2008\Projects\my first game v 2.0\my first game\bin\x86\Debug\Content\Sprites\MouseTarget 2.0.xnb
+C:\Users\Rufus\Documents\Visual Studio 2008\Projects\my first game v 2.0\my first game\bin\x86\Debug\Content\Sprites\TurretHead.xnb
+C:\Users\Rufus\Documents\Visual Studio 2008\Projects\my first game v 2.0\my first game\bin\x86\Debug\Content\Sprites\TurretStand.xnb
+C:\Users\Rufus\Documents\Visual Studio 2008\Projects\my first game v 2.0\my first game\bin\x86\Debug\Content\Sprites\ZombieTest.xnb
+C:\Users\Rufus\Documents\Visual Studio 2008\Projects\my first game v 2.0\my first game\bin\x86\Debug\Content\Fonts\GameFont.xnb
+C:\Users\Rufus\Documents\Visual Studio 2008\Projects\my first game v 2.0\my first game\bin\x86\Debug\my first game.exe
+C:\Users\Rufus\Documents\Visual Studio 2008\Projects\my first game v 2.0\my first game\bin\x86\Debug\my first game.pdb
+C:\Users\Rufus\Documents\Visual Studio 2008\Projects\my first game v 2.0\my first game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rufus\Documents\Visual Studio 2008\Projects\my first game v 2.0\my first game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rufus\Documents\Visual Studio 2008\Projects\my first game v 2.0\my first game\obj\x86\Debug\my first game.exe
+C:\Users\Rufus\Documents\Visual Studio 2008\Projects\my first game v 2.0\my first game\obj\x86\Debug\my first game.pdb
+C:\Users\Rufus\Documents\Visual Studio 2008\Projects\my first game v 2.0\my first game\bin\x86\Debug\Content\Sprites\cannonball2.xnb
+C:\Users\Rufus\Documents\Visual Studio 2008\Projects\my first game v 2.0\my first game\bin\x86\Debug\Content\Sprites\Gun.xnb
+C:\Users\Rufus\Desktop\For Sean Backup\my first game\bin\x86\Debug\Content\Sprites\cannonball.xnb
+C:\Users\Rufus\Desktop\For Sean Backup\my first game\bin\x86\Debug\Content\Sprites\MJTest.xnb
+C:\Users\Rufus\Desktop\For Sean Backup\my first game\bin\x86\Debug\Content\Sprites\BloodDrops.xnb
+C:\Users\Rufus\Desktop\For Sean Backup\my first game\bin\x86\Debug\Content\Sprites\BloodSpray.xnb
+C:\Users\Rufus\Desktop\For Sean Backup\my first game\bin\x86\Debug\Content\Sprites\MouseTarget.xnb
+C:\Users\Rufus\Desktop\For Sean Backup\my first game\bin\x86\Debug\Content\Sprites\BackGround V1.xnb
+C:\Users\Rufus\Desktop\For Sean Backup\my first game\bin\x86\Debug\Content\Sprites\MouseTarget 2.0.xnb
+C:\Users\Rufus\Desktop\For Sean Backup\my first game\bin\x86\Debug\Content\Sprites\TurretHead.xnb
+C:\Users\Rufus\Desktop\For Sean Backup\my first game\bin\x86\Debug\Content\Sprites\TurretStand.xnb
+C:\Users\Rufus\Desktop\For Sean Backup\my first game\bin\x86\Debug\Content\Sprites\ZombieTest.xnb
+C:\Users\Rufus\Desktop\For Sean Backup\my first game\bin\x86\Debug\Content\Sprites\cannonball2.xnb
+C:\Users\Rufus\Desktop\For Sean Backup\my first game\bin\x86\Debug\Content\Sprites\Gun.xnb
+C:\Users\Rufus\Desktop\For Sean Backup\my first game\bin\x86\Debug\Content\Fonts\GameFont.xnb
+C:\Users\Rufus\Desktop\For Sean Backup\my first game\bin\x86\Debug\my first game.exe
+C:\Users\Rufus\Desktop\For Sean Backup\my first game\bin\x86\Debug\my first game.pdb
+C:\Users\Rufus\Desktop\For Sean Backup\my first game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rufus\Desktop\For Sean Backup\my first game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rufus\Desktop\For Sean Backup\my first game\obj\x86\Debug\my first game.exe
+C:\Users\Rufus\Desktop\For Sean Backup\my first game\obj\x86\Debug\my first game.pdb
+C:\Users\Obi\Desktop\For Sean Backup\my first game\bin\x86\Debug\Content\Sprites\cannonball.xnb
+C:\Users\Obi\Desktop\For Sean Backup\my first game\bin\x86\Debug\Content\Sprites\MJTest.xnb
+C:\Users\Obi\Desktop\For Sean Backup\my first game\bin\x86\Debug\Content\Sprites\BloodDrops.xnb
+C:\Users\Obi\Desktop\For Sean Backup\my first game\bin\x86\Debug\Content\Sprites\BloodSpray.xnb
+C:\Users\Obi\Desktop\For Sean Backup\my first game\bin\x86\Debug\Content\Sprites\MouseTarget.xnb
+C:\Users\Obi\Desktop\For Sean Backup\my first game\bin\x86\Debug\Content\Sprites\BackGround V1.xnb
+C:\Users\Obi\Desktop\For Sean Backup\my first game\bin\x86\Debug\Content\Sprites\MouseTarget 2.0.xnb
+C:\Users\Obi\Desktop\For Sean Backup\my first game\bin\x86\Debug\Content\Sprites\TurretHead.xnb
+C:\Users\Obi\Desktop\For Sean Backup\my first game\bin\x86\Debug\Content\Sprites\TurretStand.xnb
+C:\Users\Obi\Desktop\For Sean Backup\my first game\bin\x86\Debug\Content\Sprites\ZombieTest.xnb
+C:\Users\Obi\Desktop\For Sean Backup\my first game\bin\x86\Debug\Content\Sprites\cannonball2.xnb
+C:\Users\Obi\Desktop\For Sean Backup\my first game\bin\x86\Debug\Content\Sprites\Gun.xnb
+C:\Users\Obi\Desktop\For Sean Backup\my first game\bin\x86\Debug\Content\Fonts\GameFont.xnb
+C:\Users\Obi\Desktop\For Sean Backup\my first game\bin\x86\Debug\my first game.exe
+C:\Users\Obi\Desktop\For Sean Backup\my first game\bin\x86\Debug\my first game.pdb
+C:\Users\Obi\Desktop\For Sean Backup\my first game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Obi\Desktop\For Sean Backup\my first game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Obi\Desktop\For Sean Backup\my first game\obj\x86\Debug\my first game.exe
+C:\Users\Obi\Desktop\For Sean Backup\my first game\obj\x86\Debug\my first game.pdb
+C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\Sprites\cannonball.xnb
+C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\Sprites\MJTest.xnb
+C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\Sprites\BloodDrops.xnb
+C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\Sprites\BloodSpray.xnb
+C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\Sprites\MouseTarget.xnb
+C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\Sprites\BackGround V1.xnb
+C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\Sprites\MouseTarget 2.0.xnb
+C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\Sprites\TurretHead.xnb
+C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\Sprites\TurretStand.xnb
+C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\Sprites\ZombieTest.xnb
+C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\Sprites\cannonball2.xnb
+C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\Sprites\Gun.xnb
+C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\Fonts\GameFont.xnb
+C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\my first game.exe
+C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\my first game.pdb
+C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\obj\x86\Debug\my first game.exe
+C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\obj\x86\Debug\my first game.pdb
+C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\ControlScreen.xnb
+C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\GameOver.xnb
+C:\Users\Batman\Desktop\Games\Zombie Shooter 2D\my first game\bin\x86\Debug\Content\StartScreen.xnb
